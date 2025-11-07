@@ -28,9 +28,9 @@ Windows (PowerShell): $Env:DATA_ROOT = ".\data_public\"
 Written to ./data_public/output/ (adjust in scripts if needed).
 
 ## Citing
-Please cite the repository and the related article (when available).
+Please cite the repository and the related article (https://doi.org/10.5281/zenodo.17550918).
 
 ## License
 MIT (see LICENSE).
 
-https://doi.org/10.5281/zenodo.17550918
+
