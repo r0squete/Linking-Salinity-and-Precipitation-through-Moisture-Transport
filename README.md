@@ -21,6 +21,7 @@ python p_e_regional.py
 Scripts expect ./data_public/. You can override once:
 
 macOS/Linux: export DATA_ROOT=./data_public/
+
 Windows (PowerShell): $Env:DATA_ROOT = ".\data_public\"
 
 ## Outputs
